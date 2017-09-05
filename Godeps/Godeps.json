@@ -1,0 +1,44 @@
+{
+	"ImportPath": "github.com/cloudfoundry-community/worlds-simplest-service-broker",
+	"GoVersion": "go1.7",
+	"GodepVersion": "v79",
+	"Deps": [
+		{
+			"ImportPath": "github.com/cloudfoundry-community/go-cfenv",
+			"Comment": "v1.17.0",
+			"Rev": "f920e9562d5f951cbf11785728f67258c38a10d0"
+		},
+		{
+			"ImportPath": "github.com/cloudfoundry-community/types-cf",
+			"Comment": "v.1.4-8-g0f57b59",
+			"Rev": "0f57b598859da26e2ccd58dde308bc40e67fb25e"
+		},
+		{
+			"ImportPath": "github.com/codegangsta/inject",
+			"Comment": "v1.0-rc1-10-g33e0aa1",
+			"Rev": "33e0aa1cb7c019ccc3fbe049a8262a6403d30504"
+		},
+		{
+			"ImportPath": "github.com/go-martini/martini",
+			"Comment": "v1.0-188-g22fa469",
+			"Rev": "22fa46961aabd2665cf3f1343b146d20028f5071"
+		},
+		{
+			"ImportPath": "github.com/kr/pretty",
+			"Comment": "go.weekly.2011-12-22-36-gcfb55aa",
+			"Rev": "cfb55aafdaf3ec08f0db22699ab822c50091b1c4"
+		},
+		{
+			"ImportPath": "github.com/kr/text",
+			"Rev": "7cafcd837844e784b526369c9bce262804aebc60"
+		},
+		{
+			"ImportPath": "github.com/martini-contrib/auth",
+			"Rev": "fa62c19b7ae87da370242054c8beb11af31d327f"
+		},
+		{
+			"ImportPath": "github.com/mitchellh/mapstructure",
+			"Rev": "cc8532a8e9a55ea36402aa21efdf403a60d34096"
+		}
+	]
+}

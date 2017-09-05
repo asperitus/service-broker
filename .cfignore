@@ -1,0 +1,5 @@
+#
+Godeps
+vendor
+*.go
+*.sh
